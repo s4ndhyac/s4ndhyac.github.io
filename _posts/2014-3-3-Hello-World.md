@@ -1,10 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: The Making of an Entrepreneur
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I belong to that rare category of slightly eccentric misfits who simply do not fit into any traditional role int he workforce. People who can just about make anything that they put their minds to, happen. People who are neither CEO material nor CTO material, neither CFO material nor CFO material, but co-founder material.
