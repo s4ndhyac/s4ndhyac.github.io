@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
 
-Hacker looking for a hustler
+Hacker looking for a hustler to join my venture
 
 ### Contact me
 
